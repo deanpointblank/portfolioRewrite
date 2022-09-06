@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+}
+
+div .container {
+  height: 100vh;
+  display: grid;
+  grid-template-columns: 2fr 8fr;
+  grid-template-rows: 1fr;
+  background-color: #E9E9F2;
+}
+
+section {
+  padding: 8px;
+}
+
+
+main {
+  padding: 8px;
+  display: grid;
+  grid-template-rows: 6fr 4fr;
+}

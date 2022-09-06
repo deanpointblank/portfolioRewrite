@@ -1,0 +1,4 @@
+section .skills {
+  display: grid;
+  grid-template-columns: 2fr 6fr;
+}
